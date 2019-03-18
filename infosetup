@@ -1,0 +1,4 @@
+download spring tool suite IDE 
+import this project 
+spring  download depencincies from pom.xml
+oracle database has been used for this project ,can use any aother databse cand do configure in application.properties files as per database
